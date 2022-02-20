@@ -11,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - SolidObjects
+  - NonSolidObjects
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Non-Solid Objects
+    uniqueID: 4089968635
+    locked: 0
+  - name: Solid Objects
+    uniqueID: 2303686305
+    locked: 0
+  - name: Player
+    uniqueID: 591239669
     locked: 0
