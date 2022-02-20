@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
     private float x;
     public float JumpForce;
     private bool j;
-    private bool FacingRight = false;
+    private bool FacingRight = true;
     public float DashSpeed;
     private float Dashtime = 0;
     public float StartDash;
